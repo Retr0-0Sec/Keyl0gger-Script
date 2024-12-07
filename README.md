@@ -10,22 +10,22 @@ I do not take responsibility for any illegal actions or consequences that may ar
 By using this code, you acknowledge that you are fully responsible for how it is used.
 The author does not endorse or support any illegal activities such as unauthorized access to systems or devices.
 Always seek permission before running any keylogging or monitoring software on someone else's system.
-Features:
+# Features:
 Monitors keyboard input events.
 Sends captured keystrokes to a specified Discord webhook.
-How It Works:
+# How It Works:
 The script listens for keypress events using the hid library.
 Every time a key is pressed, the script sends the keypress data to a specified Discord webhook.
 There is a small delay between each keypress to avoid overwhelming the webhook with too many requests in a short time.
-Requirements:
+# Requirements:
 Python 3.x
 urequests library (for sending HTTP requests)
 hid library (for capturing keystrokes)
-Installation:
+# Installation:
 Clone this repository:
 
 bash
-Kopírovať kód
+
 git clone https://github.com/your-username/keylogger-script.git
 cd keylogger-script
 Install the required libraries:
