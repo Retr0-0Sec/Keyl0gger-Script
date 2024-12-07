@@ -25,7 +25,7 @@ hid library (for capturing keystrokes)
 Clone this repository:
 
 git clone https://github.com/Retr0-0Sec/Keyl0gger-Script.git <br>
-cd keylogger-script
+cd Keyl0gger-Script
 
 # Install the required libraries:
 
