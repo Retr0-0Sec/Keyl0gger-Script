@@ -2,9 +2,9 @@
 This project contains a simple keylogger script that captures keystrokes and sends them to a Discord webhook. It is intended solely for educational purposes to demonstrate how keyloggers work and how data can be captured from input devices.
 
 # ⚠️ IMPORTANT: FOR EDUCATIONAL PURPOSES ONLY!
-# This script is NOT intended for malicious use. Do not use this script without explicit consent from the device owner. Unauthorized use of keylogging software may be illegal and unethical.
+This script is NOT intended for malicious use. Do not use this script without explicit consent from the device owner. Unauthorized use of keylogging software may be illegal and unethical.
 
-# I do not take responsibility for any illegal actions or consequences that may arise from using this script.
+I do not take responsibility for any illegal actions or consequences that may arise from using this script.
 
 # ❗ Disclaimer:
 By using this code, you acknowledge that you are fully responsible for how it is used.
