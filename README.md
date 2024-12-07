@@ -18,13 +18,13 @@ The script listens for keypress events using the hid library.
 Every time a key is pressed, the script sends the keypress data to a specified Discord webhook.
 There is a small delay between each keypress to avoid overwhelming the webhook with too many requests in a short time.
 # Requirements:
-Python 3.x
-urequests library (for sending HTTP requests)
+Python 3.x <br>
+urequests library (for sending HTTP requests)<br>
 hid library (for capturing keystrokes)
 # Installation:
 Clone this repository:
 
-git clone https://github.com/your-username/keylogger-script.git
+git clone https://github.com/your-username/keylogger-script.git<br>
 cd keylogger-script
 
 # Install the required libraries:
@@ -38,10 +38,10 @@ Replace the WEBHOOK_URL variable with your own Discord webhook URL.
 # Run the script:
 
 python3 keylogger.py
-Usage:
+# Usage:
 The script will continuously run, listening for keypress events and sending the data to the specified Discord webhook.
 Make sure you have the necessary permissions before running this script.
-License:
+# License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # 🚨 IMPORTANT NOTICE:
