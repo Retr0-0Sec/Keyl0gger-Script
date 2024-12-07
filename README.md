@@ -37,7 +37,7 @@ Replace the WEBHOOK_URL variable with your own Discord webhook URL.
 
 # Run the script:
 
-python3 keylogger.py
+python3 keyl0gger.py
 # Usage:
 The script will continuously run, listening for keypress events and sending the data to the specified Discord webhook.
 Make sure you have the necessary permissions before running this script.
