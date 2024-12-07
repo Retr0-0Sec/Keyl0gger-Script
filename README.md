@@ -24,29 +24,26 @@ hid library (for capturing keystrokes)
 # Installation:
 Clone this repository:
 
-bash
-
 git clone https://github.com/your-username/keylogger-script.git
 cd keylogger-script
-Install the required libraries:
 
-bash
-Kopírovať kód
+# Install the required libraries:
+
 pip install urequests hid
-Modify the script:
+
+# Modify the script:
 
 Replace the WEBHOOK_URL variable with your own Discord webhook URL.
-Run the script:
 
-bash
-Kopírovať kód
-python keylogger.py
+# Run the script:
+
+python3 keylogger.py
 Usage:
 The script will continuously run, listening for keypress events and sending the data to the specified Discord webhook.
 Make sure you have the necessary permissions before running this script.
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🚨 IMPORTANT NOTICE:
+# 🚨 IMPORTANT NOTICE:
 The author of this script is not responsible for any misuse or illegal activities that result from running or modifying this code. It is intended to be used for educational purposes only. Always comply with the laws and obtain proper consent before using this script in any real-world scenario.
 
